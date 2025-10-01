@@ -7,6 +7,17 @@
 🎓 Majoring in Computer Science & Engineering, driven by a love for building and improving systems.<br>
 🎮 In my free time, I enjoy playing video games to relax and recharge for the next challenge.<br><br>
 
+## 💼 Experience  
+🔹 **Automation Engineer Intern at HPT Vietnam**  
+- Built and optimized automation workflows to reduce manual effort and save time.  
+- Developed scripts and integrations to streamline processes across multiple systems.  
+- Collaborated with the tech team to improve efficiency and reliability of operations.  
+
+🔹 **Video Editing Projects**  
+- Edited professional and creative videos for both internal and personal projects.  
+- Used tools like CapCut, Premiere Pro, and After Effects to deliver polished content.  
+- Created engaging visuals to support presentations, tutorials, and social media.  
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nguyendung5615) 
 
