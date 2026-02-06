@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 Started with web and networks, explored game development, and now diving deep into machine learning.<br>
-⚙️ Currently working as an automation engineer, building workflows to save time and boost efficiency.<br>
+⚙️ I was an automation engineer, building workflows to save time and boost efficiency.<br>
 🧠 Passionate about AI—especially how machines can learn and perceive the world.<br>
 🤖 Experienced in robotics, including designing robot paths using Unity.<br>
 🎥 Skilled in video editing, creating engaging and polished content to communicate ideas effectively.<br>
